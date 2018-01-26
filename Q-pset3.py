@@ -10,7 +10,7 @@
 import random
 import string
 
-WORDLIST_FILENAME = "words.txt"
+WORDLIST_FILENAME = "hang_words.txt"
 
 def loadWords():
     """
